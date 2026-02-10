@@ -49,8 +49,5 @@ Currently, the application uses **H2 Database** for development and testing, wit
 ### 🗄️ Database
 - H2 Database (Development)
 - MySQL (Planned Deployment)
-
----
-
-## 📂 Project Architecture
+- Spring Security(Working on it)
 
